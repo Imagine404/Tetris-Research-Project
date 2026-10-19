@@ -1,0 +1,3 @@
+nes-py @ git+https://github.com/Kautenja/nes-py.git@master
+build>=1.2.1
+PyYAML>=6.0.2
