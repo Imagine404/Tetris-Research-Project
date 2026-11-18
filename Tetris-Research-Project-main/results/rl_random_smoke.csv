@@ -1,0 +1,6 @@
+seed,policy_seed,max_pieces,pieces_placed,lines_cleared,total_reward,terminated,truncated,placement_reward,line_weight,game_over_penalty
+0,100,1000,23,0,-7.7,True,False,0.1,1.0,-10.0
+1,101,1000,21,0,-7.9,True,False,0.1,1.0,-10.0
+2,102,1000,23,0,-7.7,True,False,0.1,1.0,-10.0
+3,103,1000,25,0,-7.5,True,False,0.1,1.0,-10.0
+4,104,1000,26,0,-7.4,True,False,0.1,1.0,-10.0
